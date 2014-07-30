@@ -25,6 +25,7 @@ public class ClassA {
     content.add(label, BorderLayout.CENTER);
     String message = "Jnln Hello Word";
  
+    //test git commit 
     label.setText(message);
  
     try {
